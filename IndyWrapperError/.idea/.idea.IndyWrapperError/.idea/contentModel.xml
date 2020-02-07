@@ -12,6 +12,7 @@
         <e p="Scripts" t="Include">
           <e p="IndyRaw.cs" t="Include" />
           <e p="IndyWrapper.cs" t="Include" />
+          <e p="TestThreads.cs" t="Include" />
         </e>
       </e>
       <e p="IndyWrapperError.sln" t="IncludeFlat" />
